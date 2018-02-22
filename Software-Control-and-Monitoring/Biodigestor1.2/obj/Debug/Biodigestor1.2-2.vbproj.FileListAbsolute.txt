@@ -1,0 +1,90 @@
+E:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.exe.config
+E:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.exe
+E:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.pdb
+E:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.xml
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.exe
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.xml
+E:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.pdb
+J:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.exe.config
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.exe
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.xml
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2.pdb
+J:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.exe
+J:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.pdb
+J:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Biodigestor1.2.xml
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+J:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
+G:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe.config
+G:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe
+G:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.pdb
+G:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.xml
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.exe
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.xml
+G:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.pdb
+F:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe.config
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.exe
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.xml
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.pdb
+F:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe
+F:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.pdb
+F:\Biodigestor1.2\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.xml
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+F:\Biodigestor1.2\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe.config
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.exe
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.xml
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.pdb
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.pdb
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.xml
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+C:\Users\David Maia\Desktop\Biodigestor\Biodigestor1.3\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe.config
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.exe
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.xml
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\Software de Controle e Automação de Biodigestores.pdb
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.exe
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.pdb
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\bin\Debug\Software de Controle e Automação de Biodigestores.xml
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.controle.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.grafico.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Principal.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.tabela.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Telainicial.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\WindowsApplication1.visualizador.resources
+C:\Users\David Maia\Desktop\Backup - Software\Biodigestor1.3\Biodigestor1.2\obj\Debug\Biodigestor1.2-2.vbproj.GenerateResource.Cache
